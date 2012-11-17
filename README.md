@@ -1,4 +1,4 @@
 livedata-samples
 ================
 
-Well designed and pretty formated samples for LiveData
+Well designed and pretty formatted samples for LiveData
